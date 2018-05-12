@@ -1,0 +1,34 @@
+_repo: Le-Sentier_27627
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Nunès, Robert
+    alias: Nunes, Robert
+    gutenberg_agent_id: '32802'
+    url: http://www.gutenberg.org/2009/agents/32802
+  - agent_name: Du Veuzit, Max
+    aliases:
+    - Simonet, Alphonsine (Vavassoir-Archer)
+    - Veuzit, Max du
+    birthdate: 1886
+    deathdate: 1952
+    gutenberg_agent_id: '32799'
+    url: http://www.gutenberg.org/2009/agents/32799
+description: ''
+gutenberg_bookshelf: FR Théâtre
+gutenberg_issued: '2008-12-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27627'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'French drama'
+title: Le Sentier
+url: http://www.gutenberg.org/ebooks/27627
